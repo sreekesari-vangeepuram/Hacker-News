@@ -1,7 +1,7 @@
 # Hacker-News
 This project scrapes the "Hacker News" web-site to retrive the trending news from the site.
 
-<h6>First-steps:</h6>
+<h4>First-steps:</h4>
 
 Clone the repository with `https` as:  
 ```
