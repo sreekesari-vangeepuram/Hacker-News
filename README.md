@@ -10,15 +10,11 @@ $ git clone https://github.com/sreekesari-vangeepuram/Hacker-News.git
 
 `Windows` users use `python3.x` interpreter for executing code.  
   
-`Linux/BSD/MacOS` users enable the virtual environment as shown below:  
-```
-$ cd Hacker-News
-$ source ./bin/activate
-```  
-Now to run the code use the command mentioned below:  
+`Linux/BSD/MacOS` users use the command mentioned below:  
 ```
 $ python3 ./hacker_news.py
 ```  
-Then supply the required parameter asked by the running instance of the code through `stdin`.
-
+Then supply the required parameters asked by the running instance of the code through `stdin`.
+  
+  
 Twitter: <a href="https://twitter.com/sreekesari">@sreekesari</a>
