@@ -3,10 +3,21 @@ This project scrapes the "Hacker News" web-site to retrive the trending news fro
 
 <h6>First-steps:</h6>
 
-In Terminal (MacOS/ Linux):<br>
+Clone the repository with `https` as:  
+```
+$ git clone https://github.com/sreekesari-vangeepuram/Hacker-News.git
+```  
 
-Get into the cloned repository.Then;
-  ``` ./hacker_news.py ``` <br>
-Windows users can use `python3` tool in Powershell.<br>
+Windows users use `python3.x` interpreter for executing code.  
+Linux/BSD/MacOS users enable the virtual environment as shown below:  
+```
+$ cd Hacker-News
+$ source ./bin/activate
+```  
+Now to run the code use the command mentioned below:  
+```
+$ python3 ./hacker_news.py
+```  
+Then supply the required parameter asked by the running instance of the code through `stdin`.
 
 Twitter: <a href="https://twitter.com/sreekesari">@sreekesari</a>
