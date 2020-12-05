@@ -8,8 +8,9 @@ Clone the repository with `https` as:
 $ git clone https://github.com/sreekesari-vangeepuram/Hacker-News.git
 ```  
 
-Windows users use `python3.x` interpreter for executing code.  
-Linux/BSD/MacOS users enable the virtual environment as shown below:  
+`Windows` users use `python3.x` interpreter for executing code.  
+  
+`Linux/BSD/MacOS` users enable the virtual environment as shown below:  
 ```
 $ cd Hacker-News
 $ source ./bin/activate
